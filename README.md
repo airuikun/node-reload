@@ -1,4 +1,8 @@
 # smart-node-reload
+
+a method of nodejs code hot reload without restart
+基于nodejs的云端热部署原理与实现 
+
 大家都知道，nodejs启的后端服务，如果有代码变动，要重启进程，代码才能生效。
 
 nodejs的进程在重启的时候，用户去访问服务，就会出现短暂的 `502 bad gateway`
