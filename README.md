@@ -19,6 +19,8 @@ nodejs的进程在重启的时候，用户去访问服务，就会出现短暂�
 
 # 源码使用
 
+nodejs版本：v10.5.0
+
 `git clone`下来以后，无需安装，直接运行
 ```javascript
     npm start
